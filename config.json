@@ -1,0 +1,4 @@
+{
+    "PUBNUB_SUBSCRIBE_KEY": "subscribe key",
+    "PUBNUB_PUBLISH_KEY": "publish key"    
+}
